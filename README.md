@@ -1,7 +1,7 @@
 # MyVim
 Tom Long's Vim configuration
 
-# Installation
+### Installation
 ```sh
 $git clone https://github.com/ilml/MyVim
 ````
