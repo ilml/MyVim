@@ -15,7 +15,6 @@ set ai!
 set showmatch
 set ruler
 set backspace=2
-let g:neocomplete#enable_at_startup = 1
 
 " Normally we use vim-extensions. If you want true vi-compatibility
 " remove change the following statements
